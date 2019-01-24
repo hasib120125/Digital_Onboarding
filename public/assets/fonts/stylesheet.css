@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Forte';
+  src: url('ForteMT.eot');
+  src: url('ForteMT.eot?#iefix') format('embedded-opentype'),
+      url('ForteMT.woff2') format('woff2'),
+      url('ForteMT.woff') format('woff'),
+      url('ForteMT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
